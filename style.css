@@ -1,0 +1,77 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #8bb8f9;
+    border: 5px solid #8bb8f9;
+    padding: 5px;
+    color: #1558b6;
+}
+
+header a {
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 8px;
+    margin-left: 15px;
+    padding: 2px;
+    text-decoration: none;
+}
+
+nav {
+    padding: 15px;
+}
+
+.aktif {
+    background-color: white;
+    color: royalblue;
+}
+
+nav a {
+    border: 2px solid royalblue;
+    border-radius: 10px;
+    padding: 3px;
+    text-decoration: none;
+    margin: 55px;
+    padding-left: 5px;
+    background-color: royalblue;
+    color: white;
+}
+
+h2 {
+    font-size: 25px;
+    color: #2770d6;
+}
+
+.offer {
+    border: 2px solid lightblue;
+    border-radius: 15px;
+}
+
+main h1 {
+    text-align: center;
+    color: #ae21d1;
+}
+
+.produk {
+    background-color: #e37427;
+    border: 5px solid #e37427;
+    border-radius: 13px;
+    padding: 8px;
+    color: white;
+}
+
+footer {
+    background-color: #e49ce0;
+    border: 5px solid #e49ce0;
+}
+
+footer p {
+    border: 5px solid #ffffff;
+    background-color: white;
+    margin: 10px;
+}
+
+#contacts {
+    padding-left: 25px;
+}
